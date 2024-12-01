@@ -1,0 +1,20 @@
+{
+  "name": "task-manager-website",
+  "version": "1.0.0",
+  "description": "Task Manager Website with React and Express",
+  "main": "index.js",
+  "scripts": {
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && node server.js",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-shamsi/datepicker": "^0.2.1",
+    "concurrently": "^9.1.0",
+    "react-calendar": "^5.1.0"
+  }
+}
