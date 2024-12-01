@@ -49,7 +49,7 @@ task-manager-website/
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
 ## Demo
-![web url](pre2.png)
+![web url](http://x.xtr.lol:85)
 
 ## Preview
 ![Application Preview](pre.png)
