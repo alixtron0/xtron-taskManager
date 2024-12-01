@@ -48,8 +48,12 @@ task-manager-website/
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
+## Demo
+![web url](pre2.png)
+
 ## Preview
 ![Application Preview](pre.png)
+
 
 ## Internationalization Support
 The application supports both Farsi and English languages. Users can switch between languages seamlessly, allowing for a more inclusive experience. The internationalization is handled using the `i18next` library, which provides a robust framework for managing translations and language switching.
